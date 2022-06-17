@@ -1,0 +1,16 @@
+17  npm i typescript -D
+18  tsc -v
+20  npm run tsc -- --init
+21  npm i express -E
+22  npm i @types/express -D
+23  npm run tsc
+24  npm start
+25  npm run tsc
+26  npm start
+28  npm i ts-node-dev -D
+29  npm run dev
+30  npm install ts-standard -D
+31  npm lint
+32  npm run lint
+33  npm run dev
+34  history
